@@ -1,0 +1,11 @@
+# Ignorar el target que está dentro de Arep-1
+Arep-1/target/
+
+# Archivos temporales
+*.log
+*.class
+
+# Configuración de IDEs
+.idea/
+*.iml
+.vscode/
