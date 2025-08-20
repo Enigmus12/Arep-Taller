@@ -46,30 +46,31 @@ Pasos para ejecutar el servidor en tu entorno local:
 
 ## Estructura del proyecto
 
-├───src
-│   ├───main
-│   │   └───java
-│   │        └───Escuelaing
-│   │               └───edu
-│   │                   └───co
-│   │                           AppServer.java
+```plaintext
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── Escuelaing
+│   │           └── edu
+│   │               └── co
+│   │                   └── AppServer.java
 │   │
-│   └───test
-│       └───java
-│           └───Escuelaing
-│                   └───edu
-│                       └───co
-│                               AppServerTest.java
+│   └── test
+│       └── java
+│           └── Escuelaing
+│               └── edu
+│                   └── co
+│                       └── AppServerTest.java
 │
-└───www
-    │   404.html
-    │   index.html
-    │   script.js
-    │   style.css
+└── www
+    ├── 404.html
+    ├── index.html
+    ├── script.js
+    ├── style.css
     │
-    └───images
-            fondo.avif
-            fondo.jpg
+    └── images
+        ├── fondo.avif
+        └── fondo.jpg
 
 
 ## Endpoints disponibles
