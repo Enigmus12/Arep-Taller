@@ -71,7 +71,7 @@ Pasos para ejecutar el servidor en tu entorno local:
     └── images
         ├── fondo.avif
         └── fondo.jpg
-
+```
 
 ## Endpoints disponibles
 
