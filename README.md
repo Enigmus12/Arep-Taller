@@ -36,7 +36,6 @@ Pasos para ejecutar el servidor en tu entorno local:
 
 - **Clonar el repositorio**
     git clone https://github.com/Enigmus12/Arep-Taller.git
-    cd TU_REPO
 
 - **Compilar el proyecto**
     mvn clean install
