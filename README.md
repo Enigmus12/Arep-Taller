@@ -35,7 +35,7 @@ Necesitas tener instalado:
 Pasos para ejecutar el servidor en tu entorno local:
 
 - **Clonar el repositorio**
-    git clone https://github.com/TU_USUARIO/TU_REPO.git
+    git clone https://github.com/Enigmus12/Arep-Taller.git
     cd TU_REPO
 
 - **Compilar el proyecto**
